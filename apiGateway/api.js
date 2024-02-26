@@ -49,3 +49,4 @@ app.get('/products', async (req, res) => {
 app.listen(port, () => {
   console.log(`API Gateway listening at http://localhost:${port}`);
 });
+//Just a little comment
